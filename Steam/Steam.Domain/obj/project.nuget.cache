@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FrklGzIYasDbSio4yW5GYsoXUSfSE0SyTaDfdCrKPfYU+nvKdKo2CjbGy3GSyOJsiZ01V2TjJjJXFiHHO4hDtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gustavo.lemos\\Documents\\Projetos\\api-csharp-steam\\Steam\\Steam.Domain\\Steam.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gustavo.lemos\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

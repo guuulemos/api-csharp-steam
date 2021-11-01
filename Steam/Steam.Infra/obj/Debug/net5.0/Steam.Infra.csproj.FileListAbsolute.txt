@@ -1,0 +1,12 @@
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\bin\Debug\net5.0\Steam.Infra.deps.json
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\bin\Debug\net5.0\Steam.Infra.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\bin\Debug\net5.0\ref\Steam.Infra.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\bin\Debug\net5.0\Steam.Infra.pdb
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\obj\Debug\net5.0\Steam.Infra.csproj.AssemblyReference.cache
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\obj\Debug\net5.0\Steam.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\obj\Debug\net5.0\Steam.Infra.AssemblyInfoInputs.cache
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\obj\Debug\net5.0\Steam.Infra.AssemblyInfo.cs
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\obj\Debug\net5.0\Steam.Infra.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\obj\Debug\net5.0\Steam.Infra.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\obj\Debug\net5.0\ref\Steam.Infra.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra\obj\Debug\net5.0\Steam.Infra.pdb

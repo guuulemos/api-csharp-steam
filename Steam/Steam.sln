@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamApi", "SteamApi\SteamApi.csproj", "{386B5218-9BB7-415E-A5FD-AF161305F28C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steam.Domain", "Steam.Domain\Steam.Domain.csproj", "{B29D6B66-B07A-4838-B2A5-60B86770631A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steam.Infra", "Steam.Infra\Steam.Infra.csproj", "{0B04BE84-1A59-4E43-8314-E2FF208EC06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steam.Infra.Data", "Steam.Infra.Data\Steam.Infra.Data.csproj", "{D54459DA-CC9B-44B8-B434-7E8C87A1C18F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386B5218-9BB7-415E-A5FD-AF161305F28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386B5218-9BB7-415E-A5FD-AF161305F28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386B5218-9BB7-415E-A5FD-AF161305F28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386B5218-9BB7-415E-A5FD-AF161305F28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29D6B66-B07A-4838-B2A5-60B86770631A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29D6B66-B07A-4838-B2A5-60B86770631A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29D6B66-B07A-4838-B2A5-60B86770631A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29D6B66-B07A-4838-B2A5-60B86770631A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B04BE84-1A59-4E43-8314-E2FF208EC06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B04BE84-1A59-4E43-8314-E2FF208EC06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B04BE84-1A59-4E43-8314-E2FF208EC06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B04BE84-1A59-4E43-8314-E2FF208EC06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54459DA-CC9B-44B8-B434-7E8C87A1C18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54459DA-CC9B-44B8-B434-7E8C87A1C18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54459DA-CC9B-44B8-B434-7E8C87A1C18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54459DA-CC9B-44B8-B434-7E8C87A1C18F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3939AECB-1944-4639-A4CB-75E2DDA8A028}
+	EndGlobalSection
+EndGlobal

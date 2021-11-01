@@ -1,0 +1,17 @@
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\bin\Debug\net5.0\Steam.Infra.Data.deps.json
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\bin\Debug\net5.0\Steam.Infra.Data.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\bin\Debug\net5.0\ref\Steam.Infra.Data.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\bin\Debug\net5.0\Steam.Infra.Data.pdb
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\bin\Debug\net5.0\Steam.Domain.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\bin\Debug\net5.0\Steam.Infra.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\bin\Debug\net5.0\Steam.Domain.pdb
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\bin\Debug\net5.0\Steam.Infra.pdb
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\Steam.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\Steam.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\Steam.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\Steam.Infra.Data.AssemblyInfo.cs
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\Steam.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\Steam.Infra.Data.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\ref\Steam.Infra.Data.dll
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\Steam.Infra.Data.pdb
+C:\Users\gustavo.lemos\Documents\Projetos\api-csharp-steam\Steam\Steam.Infra.Data\obj\Debug\net5.0\Steam.Infra.Data.csproj.CopyComplete
